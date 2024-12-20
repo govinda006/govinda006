@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 📫 How to Reach Me
 - Email: [govinda006@example.com](mailto:govinda006@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/govinda006/)
+- LinkedIn: [https://www.linkedin.com/in/govinda-prasad-parida-76a985210/](https://www.linkedin.com/in/govinda006/)
 
 ## ⚡ Fun Fact
 I love hiking and exploring new places in my free time.
