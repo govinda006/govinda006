@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - Machine Learning
 
 ## 📫 How to Reach Me
-- Email: [govinda006@example.com](mailto:govinda006@example.com)
+- Email: [govindaprasadparida2@gmail.com](mailto:govindaprasadparida2@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/govinda-prasad-parida-76a985210/](https://www.linkedin.com/in/govinda006/)
 
 ## ⚡ Fun Fact
