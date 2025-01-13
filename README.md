@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Govinda 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
