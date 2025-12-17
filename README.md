@@ -3,9 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
 ## 🔭 What I'm Currently Working On
-- [Project 1](https://github.com/govinda006/Atlas): Atlas Group Canteen portal.
-- [Project 2](https://github.com/govinda006/BorrowFromF): Borrow from a friend(Bff).
-
+- [Project 1]: govinda's-blog
+  
 ## 🌱 What I'm Currently Learning
 - Deepening my knowledge in Machine Learning and AI.
 - Exploring the latest trends in web development.
